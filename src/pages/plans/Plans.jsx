@@ -9,7 +9,7 @@ const Plans = () => {
   return (
     <>
     <Header title="Membership Plans" image={HeaderImage}>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, laborum aliquam.
+    The Plans here is the Best combo you can ever have for your Skin/Hair care routin.
     </Header>
 
     <section className="plans">

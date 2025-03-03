@@ -8,12 +8,12 @@ import {FaLinkedinIn} from 'react-icons/fa'
 import Trainer from '../../components/Trainer'
 import './trainers.css'
 
+
 const Trainers = () => {
   return (
     <>
     <Header title="Our Team" image={HeaderImage}>
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-    Provident iure odit perspiciatis nam minima eos autem recusandae velit!
+    Here is the TEAM behind Coilskin and their Social Handles for more
     </Header>
     <section className="trainers">
       <div className="container trainers__container">

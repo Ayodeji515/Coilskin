@@ -17,9 +17,8 @@ const Gallery = () => {
   return (
     <>
     <Header title="Our Gallery" image={HeaderImage}>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Natus suscipit totam corrupti repellat pariatur animi 
-    quisquam adipisci maxime sint fugiat!
+    Our Gallery entails some of the Products we have in store 
+    and the Brand identity.
     </Header>
 
     <section className="gallery">
