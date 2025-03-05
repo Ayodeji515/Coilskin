@@ -17,10 +17,10 @@ const Contact = () => {
     <section className="contact">
       <div className="container contact__container">
         <div className="contact__wrapper">
-          <a href="mailto:ayodejiemmanuel515@gmail.com" target="_blank" rel="noreferrer noopener"> <MdEmail/> </a>
+          <a href="mailto:coilskin17@gmail.com" target="_blank" rel="noreferrer noopener"> <MdEmail/> </a>
           {/* <a href="https://facebook.com/" target="_blank" rel="noreferrer noopener"> <FaFacebookF/> </a> */}
-          <a href="https://instagram.com/" target="_blank" rel="noreferrer noopener"> <BsInstagram/> </a>
-          <a href="https://wa.me/+2348148672181" target="_blank" rel="noreferrer noopener"> <IoLogoWhatsapp/> </a>
+          <a href="https://instagram.com/CoilSkin" target="_blank" rel="noreferrer noopener"> <BsInstagram/> </a>
+          <a href="https://wa.me/+2347034957892" target="_blank" rel="noreferrer noopener"> <IoLogoWhatsapp/> </a>
         </div>
       </div>
     </section>

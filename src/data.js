@@ -267,8 +267,8 @@ export const plans = [
 
 
 const Trainer1 = require('./images/founder.jpg')
-const Trainer2 = require('./images/Co-founder.jpg')
-const Trainer3 = require('./images/Ayodeji CTO.jpg')
+const Trainer2 = require('./images/Ayodeji CTO.jpg')
+const Trainer3 = require('./images/frontend lead.jpg')
 const Trainer4 = require('./images/Evidence.jpg')
 const Trainer5 = require('./images/Hikay.jpg')
 const Trainer6 = require('./images/Stephen UIUX.jpg')
@@ -285,15 +285,15 @@ export const trainers = [
     {
         id: 2,
         image: Trainer2,
-        name: 'Joshua',
-        job: 'Co-Founder',
+        name: 'Ayodeji',
+        job: 'CTO',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
         image: Trainer3,
-        name: 'Ayodeji',
-        job: 'CTO',
+        name: 'Abiola',
+        job: 'Frontend Lead',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
@@ -301,7 +301,7 @@ export const trainers = [
         image: Trainer4,
         name: 'Evidence',
         job: 'Backend Lead',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://instagram.com/evidence_ade', 'https://x.com/@evidence_codes', 'https://facebook.com/', 'https://linkedin.com/evidence-adejuwon']
     },
     {
         id: 5,
