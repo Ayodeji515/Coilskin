@@ -24,10 +24,10 @@ const Footer = () => {
                     and haircare products.
                 </p>
                 <div className="footer__socials">
-                    <a href="https://linkedin.com/" target="_blank" rel='noreferrer noopener' > <FaLinkedin /> </a>
+                    <a href="https://www.linkedin.com/company/coilskin/" target="_blank" rel='noreferrer noopener' > <FaLinkedin /> </a>
                     {/* <a href="https://facebook.com/" target="_blank" rel='noreferrer noopener' > <FaFacebookF /> </a> */}
-                    <a href="https://twitter.com/" target="_blank" rel='noreferrer noopener' > <AiOutlineTwitter /> </a>
-                    <a href="https://instagram.com/" target="_blank" rel='noreferrer noopener' > <AiFillInstagram /> </a>
+                    <a href="https://x.com/coilskin?s=21" target="_blank" rel='noreferrer noopener' > <AiOutlineTwitter /> </a>
+                    <a href="https://instagram.com/CoilSkin" target="_blank" rel='noreferrer noopener' > <AiFillInstagram /> </a>
                 </div>
             </article>
 

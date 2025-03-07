@@ -40,28 +40,28 @@ export const programs = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Body Soap",
-        info: "This is the day that the lord has made. We will rejoice! replace",
+        info: "The Body soap for Proper Body Cleaning with Body Soap Products",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Face Product",
-        info: "This is the day that the lord has made. We will rejoice! replace",
+        info: "The Face Prdduct to keep your facials glowing and smooth",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Body Cream",
-        info: "This is the day that the lord has made. We will rejoice! replace",
+        info: "The Body Cream Products makes the body glowing and have Clear skin",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Hair Product",
-        info: "This is the day that the lord has made. We will rejoice! replace",
+        info: "The Hair Care Product is one of a kind that helps with good hair treatments",
         path: "/programs/444"
     }
 ]
@@ -280,41 +280,41 @@ export const trainers = [
         image: Trainer1,
         name: 'Goodness',
         job: 'Founder',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://www.instagram.com/_ireoluwaaa?igsh=cGNuNXJ3M3BtNnYy', 'https://x.com/ireoluwaaaa_?s=21', 'https://facebook.com/', 'https://www.linkedin.com/in/goodnessojo1717/']
     },
     {
         id: 2,
         image: Trainer2,
         name: 'Ayodeji',
         job: 'CTO',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://www.instagram.com/dev.emmah?igsh=Y2t6b2c5OXhiazc3&utm_source=qr', 'https://x.com/emmahdev?s=21', 'https://facebook.com/', 'https://linkedin.com/in/ayodeji-emmanuel-b39756250']
     },
     {
         id: 3,
         image: Trainer3,
         name: 'Abiola',
         job: 'Frontend Lead',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://www.linkedin.com/in/abiola-daniel-ogunsola/']
     },
     {
         id: 4,
         image: Trainer4,
         name: 'Evidence',
         job: 'Backend Lead',
-        socials: ['https://instagram.com/evidence_ade', 'https://x.com/@evidence_codes', 'https://facebook.com/', 'https://linkedin.com/evidence-adejuwon']
+        socials: ['https://instagram.com/evidence_ade', 'https://x.com/@evidence_codes', 'https://facebook.com/', 'https://www.linkedin.com/in/evidence-adejuwon']
     },
     {
         id: 5,
         image: Trainer5,
         name: 'Hikay',
         job: 'Design Lead',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://instagram.com/', 'https://x.com/emmydesigner001?s=21', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 6,
         image: Trainer6,
         name: 'Stephen',
         job: 'UI/UX Designer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://www.instagram.com/_sthephen?igsh=MTV6bmd0MTVub3Uzcw==', 'https://x.com/klite6304?s=21', 'https://facebook.com/', 'https://www.linkedin.com/in/stephen-obembe-53867a1b5/']
     }
 ]

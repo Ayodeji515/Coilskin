@@ -20,7 +20,7 @@ const Programs = () => {
                       <span>{icon}</span>
                       <h4>{title}</h4>
                       <small>{info}</small>
-                      <Link to="/about" className="btn sm">Learn More <AiFillCaretRight /></Link>
+                      <Link to="/gallery" className="btn sm">Learn More <AiFillCaretRight /></Link>
                     </Card>
                   )
                 })
