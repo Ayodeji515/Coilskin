@@ -47,7 +47,7 @@ export const programs = [
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Face Product",
-        info: "The Face Prdduct to keep your facials glowing and smooth",
+        info: "The Face Product to keep your facials glowing and smooth",
         path: "/programs/222"
     },
     {
@@ -151,36 +151,36 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Ojo Mercy",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        name: "Favour",
+        quote: "The Body lotion is very nice, my skin feels smooth. The Body Wash smells amazing too. I've been getting lots of compliments about my skin.",
         job: "Nurcing",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
-        name: "Emmanuel",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
+        name: "Fredrick",
+        quote: "My dry skin has become soft after using the moisturizer for few days .",
+        job: "Content creator",
         avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
-        name: "Femi Kolade",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Freelancer",
+        name: "Folu",
+        quote: "My skin that was once dull has become much brighter and I'm literally glowing. I get lots of compliments about how nice my skin looks whenever I go out",
+        job: "Forex trader",
         avatar: require("./images/avatar3.jpg")
     },
     {
         id: 4,
-        name: "Goodness",
-        quote: "I worked for the company onced and i think i gained alot from them and they impact more stuffs to my career and i gain alot and Thanks to the Fitness company. The company is really a good startup company.",
-        job: "Entrepreneur",
+        name: "Precious",
+        quote: "I've tried quite a number of products in the past to help with my dark spots but none worked. This particular product has made my face become free from dark spots",
+        job: "Intern Nurse",
         avatar: require("./images/avatar4.jpg")
     },
     {
         id: 5,
-        name: "Fredrick",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        name: "Chioma",
+        quote: "The Skincare products are really working on my body. My skin is really glowing. Infact i've been getting lots of compliments about the improvement in my skin.",
         job: "Model",
         avatar: require("./images/avatar5.jpg")
     }
@@ -196,64 +196,64 @@ export const plans = [
     {
         id: 1,
         name: 'Silver Package',
-        desc: 'This package is perfect for beginners who need constant help',
-        price: 29.99,
+        desc: '(Affordable & Accessible) Budget-conscious customers who need guidance but don’t require intensive personalization.',
+        price: 9000,
         features: [
-            {feature: 'First Product', available: true},
-            {feature: 'Second Product', available: true},
-            {feature: 'Third Product', available: true},
-            {feature: 'Fourth Product', available: true},
-            {feature: 'Fifth Product', available: true},
-            {feature: 'Fifth Product Plus', available: false},
-            {feature: 'Sixth Product', available: false},
-            {feature: 'Seventh Product', available: false},
-            {feature: 'Seventh Product Plus', available: false},
-            {feature: 'Eighth Product', available: false},
-            {feature: 'Ninth Product', available: false},
-            {feature: 'Tenth Product', available: false},
-            {feature: 'Eleventh Product', available: false}
+            {feature: 'Access to curated product recommendations', available: true},
+            {feature: 'Monthly skincare/haircare routine guide', available: true},
+            {feature: 'Community access (forums, expert Q&A)', available: true},
+            {feature: 'Discounts on selected products (e.g 5%)', available: true}
+            // {feature: 'Fifth Product', available: true},
+            // {feature: 'Fifth Product Plus', available: false},
+            // {feature: 'Sixth Product', available: false},
+            // {feature: 'Seventh Product', available: false},
+            // {feature: 'Seventh Product Plus', available: false},
+            // {feature: 'Eighth Product', available: false},
+            // {feature: 'Ninth Product', available: false},
+            // {feature: 'Tenth Product', available: false},
+            // {feature: 'eleventh Product', available: false}
         ]
     },
     {
         id: 2,
         name: 'Gold Package',
-        desc: 'This is the perfect package for beginners who know what their doing',
-        price: 49.99,
+        desc: '(Enhanced Personalization) Customers who want expert-backed recommendations and personalized care.',
+        price: 18000,
         features: [
-            {feature: 'First Product', available: true},
-            {feature: 'Second Product', available: true},
-            {feature: 'Third Product', available: true},
-            {feature: 'Fourth Product', available: true},
-            {feature: 'Fifth Product', available: true},
-            {feature: 'Fifth Product Plus', available: true},
-            {feature: 'Sixth Product', available: true},
-            {feature: 'Seventh Product', available: true},
-            {feature: 'Seventh Product Plus', available: true},
-            {feature: 'Eighth Product', available: false},
-            {feature: 'Ninth Product', available: false},
-            {feature: 'Tenth Product', available: false},
-            {feature: 'Eleventh Product', available: false}
+            {feature: 'Everything in Silver plus:', available: true},
+            {feature: 'Personalized consultations (e.g:AI-driven or expert-recommended routine)', available: true},
+            {feature: 'Early access to new products and exclusive sales', available: true},
+            {feature: 'Higher discounts (e.g: 10%)', available: true},
+            {feature: 'One free product sample per month', available: true}
+            // {feature: 'Fifth Product Plus', available: true},
+            // {feature: 'Sixth Product', available: true},
+            // {feature: 'Seventh Product', available: true},
+            // {feature: 'Seventh Product Plus', available: true},
+            // {feature: 'Eighth Product', available: false},
+            // {feature: 'Ninth Product', available: false},
+            // {feature: 'Tenth Product', available: false},
+            // {feature: 'Eleventh Product', available: false}
         ]
     },
     {
         id: 3,
         name: 'Platinum Package',
-        desc: 'This package is perfect for busy people who need home service',
-        price: 89.99,
+        desc: '(VIP Experience) Beauty enthusiasts and loyal customers who want a fully tailored experience.',
+        price: 36000,
         features: [
-            {feature: 'First Product', available: true},
-            {feature: 'Second Product', available: true},
-            {feature: 'Third Product', available: true},
-            {feature: 'Fourth Product', available: true},
-            {feature: 'Fifth Product', available: true},
-            {feature: 'Fifth Product Plus', available: true},
-            {feature: 'Sixth Product', available: true},
-            {feature: 'Seventh Product', available: true},
-            {feature: 'Seventh Product Plus', available: true},
-            {feature: 'Eighth Product', available: true},
-            {feature: 'Ninth Product', available: true},
-            {feature: 'Tenth Product', available: true},
-            {feature: 'Eleventh Product', available: true}
+            {feature: 'Everything in Gold plus:', available: true},
+            {feature: 'One-on-one consultations with beauty/skincare experts', available: true},
+            {feature: 'Priority customer support', available: true},
+            {feature: 'Custom product bundles based on personal needs', available: true},
+            {feature: 'Highest discount (e.g: 15-20%)', available: true},
+            {feature: 'Exclusive gifts and early access to limited-edition products', available: true}
+            // {feature: 'Sixth Product', available: true},
+            // {feature: 'Seventh Product', available: true},
+            // {feature: 'Seventh Product Plus', available: true},
+            // {feature: 'Eighth Product', available: true},
+            // {feature: 'Ninth Product', available: true},
+            // {feature: 'Tenth Product', available: true},
+            // {feature: 'Eleventh Product', available: true}
         ]
     }
 ]
@@ -267,11 +267,12 @@ export const plans = [
 
 
 const Trainer1 = require('./images/founder.jpg')
-const Trainer2 = require('./images/Ayodeji CTO.jpg')
-const Trainer3 = require('./images/frontend lead.jpg')
-const Trainer4 = require('./images/Evidence.jpg')
-const Trainer5 = require('./images/Hikay.jpg')
-const Trainer6 = require('./images/Stephen UIUX.jpg')
+const Trainer2 = require('./images/co founder.jpg')
+const Trainer3 = require('./images/Ayodeji CTO.jpg')
+const Trainer4 = require('./images/frontend lead.jpg')
+const Trainer5 = require('./images/Evidence.jpg')
+const Trainer6 = require('./images/Hikay.jpg')
+const Trainer7 = require('./images/Stephen UIUX.jpg')
 
 
 export const trainers = [
@@ -285,34 +286,41 @@ export const trainers = [
     {
         id: 2,
         image: Trainer2,
+        name: 'Emmanuel',
+        job: 'Co-Founder',
+        socials: ['https://www.instagram.com/', 'https://x.com/meet_manny?s=21', 'https://facebook.com/', 'https://linkedin.com/in/emmanuel-ajibokun']
+    },
+    {
+        id: 3,
+        image: Trainer3,
         name: 'Ayodeji',
         job: 'CTO',
         socials: ['https://www.instagram.com/dev.emmah?igsh=Y2t6b2c5OXhiazc3&utm_source=qr', 'https://x.com/emmahdev?s=21', 'https://facebook.com/', 'https://linkedin.com/in/ayodeji-emmanuel-b39756250']
     },
     {
-        id: 3,
-        image: Trainer3,
+        id: 4,
+        image: Trainer4,
         name: 'Abiola',
         job: 'Frontend Lead',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://www.linkedin.com/in/abiola-daniel-ogunsola/']
     },
     {
-        id: 4,
-        image: Trainer4,
+        id: 5,
+        image: Trainer5,
         name: 'Evidence',
         job: 'Backend Lead',
         socials: ['https://instagram.com/evidence_ade', 'https://x.com/@evidence_codes', 'https://facebook.com/', 'https://www.linkedin.com/in/evidence-adejuwon']
     },
     {
-        id: 5,
-        image: Trainer5,
+        id: 6,
+        image: Trainer6,
         name: 'Hikay',
         job: 'Design Lead',
         socials: ['https://instagram.com/', 'https://x.com/emmydesigner001?s=21', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
-        id: 6,
-        image: Trainer6,
+        id: 7,
+        image: Trainer7,
         name: 'Stephen',
         job: 'UI/UX Designer',
         socials: ['https://www.instagram.com/_sthephen?igsh=MTV6bmd0MTVub3Uzcw==', 'https://x.com/klite6304?s=21', 'https://facebook.com/', 'https://www.linkedin.com/in/stephen-obembe-53867a1b5/']

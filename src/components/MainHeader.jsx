@@ -7,7 +7,7 @@ const MainHeader = () => {
     <header className="main__header">
       <div className="container main__header-container">
         <div className="main__header-left">
-          <h4>#100DaysOfSkinCareBeauty</h4>
+          <h4>#JoinCoilSkinForSkinCareBeauty</h4>
           <h1>Join The Lengends Of The Beauty World</h1>
           <p>
             CoilSkin is an e-commerce platform focused 
