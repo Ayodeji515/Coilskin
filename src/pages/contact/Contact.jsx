@@ -19,7 +19,7 @@ const Contact = () => {
         <div className="contact__wrapper">
           <a href="mailto:coilskin17@gmail.com" target="_blank" rel="noreferrer noopener"> <MdEmail/> </a>
           {/* <a href="https://facebook.com/" target="_blank" rel="noreferrer noopener"> <FaFacebookF/> </a> */}
-          <a href="https://instagram.com/CoilSkin" target="_blank" rel="noreferrer noopener"> <BsInstagram/> </a>
+          <a href="https://instagram.com/CoilSkinn" target="_blank" rel="noreferrer noopener"> <BsInstagram/> </a>
           <a href="https://wa.me/+2347034957892" target="_blank" rel="noreferrer noopener"> <IoLogoWhatsapp/> </a>
         </div>
       </div>
