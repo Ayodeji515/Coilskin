@@ -42,8 +42,7 @@
     border-radius: 50%;
     position: absolute;
     transition: var(--transition);
-    filter: blur(8px);
-    /* transition: 1s ease-in-out; */
+    filter: blur(8px)
 } */
 
 .main__header-image {
