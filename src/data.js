@@ -153,7 +153,7 @@ export const testimonials = [
         id: 1,
         name: "Favour",
         quote: "The Body lotion is very nice, my skin feels smooth. The Body Wash smells amazing too. I've been getting lots of compliments about my skin.",
-        job: "Nurcing",
+        job: "Nurse",
         avatar: require("./images/avatar1.jpg")
     },
     {

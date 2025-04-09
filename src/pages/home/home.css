@@ -35,7 +35,7 @@
     position: relative;
 }
 
-.main__header-circle {
+/* .main__header-circle {
     width: 25rem;
     height: 25rem;
     background: linear-gradient(75deg, var(--color-secondary), transparent);
@@ -44,15 +44,15 @@
     transition: var(--transition);
     filter: blur(8px);
     /* transition: 1s ease-in-out; */
-}
+} */
 
 .main__header-image {
     position: relative;
 }
 
-.main__header-right:hover .main__header-circle {
+/* .main__header-right:hover .main__header-circle {
     filter: blur(15px);
-}
+} */
 
 
 /* ================== PROGRAMS ======================  */
